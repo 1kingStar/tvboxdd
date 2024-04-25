@@ -75,6 +75,10 @@
             "url": "http://39.101.135.137:8080"
         },
         {
+            "name": "🚀ok路线",
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt"
+        },
+        {
             "name": "🚀SVIP",
             "url": "https://gitee.com/wangjiedehao/itvi/raw/master/SVIP.json"
         },
@@ -93,6 +97,10 @@
         {
             "name": "🚀刘备",
             "url": "https://raw.liucn.cc/box/m.json"
+        },
+        {
+            "url": "https://raw.fastgit.org/liu673cn/box/main/m.json",
+            "name": "🚀刘备线路备用"
         },
         {
             "name": "🚀心魔",
@@ -172,7 +180,15 @@
             "url": "https://pastebin.com/raw/5NHaxyGR"
         },
         {
-             "name":"🚀小马",
+             "name":"🚀无意路线",
+            "url": "http://www.wya6.cn/tv/yc.json"
+        },
+        {
+            "name":"🚀小马",
+            "url": "https://szyyds.cn/tv/x.json"
+        },
+        {
+            "name":"🚀王二小",
             "url": "https://szyyds.cn/tv/x.json"
         },
         {
