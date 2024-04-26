@@ -7,11 +7,15 @@
         },
         {
             "url": "http://饭太硬.top/tv",
-            "name": "🚀饭太硬推荐"
+            "name": "🚀饭太硬"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米推荐"
+            "name": "🚀小米"
+        },
+        {
+            "name":"🚀道长",
+            "url": "https://pastebin.com/raw/5NHaxyGR"
         },
         {
             "name": "🚀摸鱼",
@@ -22,35 +26,26 @@
             "name": "🚀宝盒线路"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-            "name": "🚀香雅情镜像线路"
-        },
-
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "🚀酷安潇洒哥线路"
-        },
-        {
             "url": "https://weixine.net/ysc.json",
             "name": "🚀运输车路"
+        },
+        {
+            "name": "🚀多多影音",
+            "url": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/duoduo/dduo.json"
         },
         {
             "url": "https://100km.top/0",
             "name": "🚀ok线路"
         },
         {
-            "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "🚀影探线路"
-        },
-
-        {
             "name": "🚀肥猫",
             "url": "http://肥猫.live"
         },
         {
-            "name": "🚀多多影音",
-            "url": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/duoduo/dduo.json"
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "🚀影探线路"
         },
+
         {
             "name": "🚀无界",
             "url": "https://www.无界.top"
@@ -136,10 +131,7 @@
              "name":"🚀不良帅",
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/不良帅.json"
         },
-        {
-             "name":"🚀道长",
-            "url": "https://pastebin.com/raw/5NHaxyGR"
-        },
+
         {
             "name":"🚀小马",
             "url": "https://szyyds.cn/tv/x.json"
