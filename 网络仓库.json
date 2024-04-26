@@ -159,7 +159,9 @@
         {
              "name":"🚀看电影",
             "url": "https://tv.lan2wan.top/candymuj.json"
-        }
-
+        },
+        { "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0825.json", "name": "线路14（0825）" },
+        { "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0826.json", "name": "线路15（0826）" },
+        { "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0827.json", "name": "线路16（0827）" }
     ]
 }
