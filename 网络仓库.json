@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "",
-            "name": "接口更新说明-夜空4.26"
+            "name": "接口更新说明-我的征途是星辰大海4.26"
         },
         {
             "url": "http://饭太硬.top/tv",
@@ -157,11 +157,32 @@
             "url": "http://cdn.qiaoji8.com/tvbox.json"
         },
         {
-             "name":"🚀看电影",
+            "name": "🚀橘子柚接口",
+            "url": "https://gitee.com/hackyjso/box/raw/main/config.json"
+        },
+        {
+            "url": "https://tvbox.aoki.fun/ck/通用.json",
+            "name": "🚀青木资源主线⚡4K磁力专线"
+        },
+        {
+            "url": "https://gitee.com/shangyunvip/yscdx/raw/master/sydx.json",
+            "name": "🚀殇云主线⚡4K磁力专线"
+        },
+        {
+            "name":"🚀看电影",
             "url": "https://tv.lan2wan.top/candymuj.json"
         },
-        { "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0825.json", "name": "线路14（0825）" },
-        { "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0826.json", "name": "线路15（0826）" },
-        { "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0827.json", "name": "线路16（0827）" }
+        {
+            "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0825.json",
+            "name": "🚀线路14（0825）"
+        },
+        {
+            "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0826.json",
+            "name": "🚀线路15（0826）"
+        },
+        {
+            "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/0827.json",
+            "name": "🚀线路16（0827）"
+        }
     ]
 }
