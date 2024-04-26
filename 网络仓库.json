@@ -1,8 +1,9 @@
-//目前垃圾线路有 老刘备
+//目前垃圾线路有 老刘备，小白龙
 {
-    "urls": [{
-        "url": "",
-        "name": "接口更新-夜空4.14"
+    "urls": [
+        {
+            "url": "",
+            "name": "接口更新说明-夜空4.26"
         },
         {
             "url": "http://饭太硬.top/tv",
@@ -29,13 +30,6 @@
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "🚀酷安潇洒哥线路"
         },
-
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧计线路"
-        },
-
-
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🚀运输车路"
@@ -58,10 +52,6 @@
             "url": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/duoduo/dduo.json"
         },
         {
-            "name": "🚀香佬",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-        },
-        {
             "name": "🚀无界",
             "url": "https://www.无界.top"
         },
@@ -82,10 +72,7 @@
             "name": "🚀SVIP",
             "url": "https://gitee.com/wangjiedehao/itvi/raw/master/SVIP.json"
         },
-        {
-            "name": "🚀艾艾接口",
-            "url": "http://cdn.qiaoji8.com/tvbox.json"
-        },
+
         {
             "name": "🚀4K",
             "url": "http://jxym.ygx888.com/vip/api.json"
@@ -99,10 +86,6 @@
             "url": "https://raw.liucn.cc/box/m.json"
         },
         {
-            "url": "https://raw.fastgit.org/liu673cn/box/main/m.json",
-            "name": "🚀刘备线路备用"
-        },
-        {
             "name": "🚀心魔",
             "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
         },
@@ -110,10 +93,7 @@
             "name": "🚀乐享fans",
             "url": "https://gitee.com/shangyunvip/yingshicang/raw/master/lexiang/tv.json"
         },
-        {
-            "name": "🚀健康家用",
-            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-        },
+
         {
             "name":"🚀宝盒",
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
@@ -123,28 +103,9 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json"
         },
         {
-             "name":"🚀FongMI",
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
-        },
-        {
-             "name":"🚀高天流云",
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-        },
-        {
-             "name":"🚀高天流云",
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
-        },
-        {
              "name":"🚀佬魔改",
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json"
         },
-
-
-        {
-             "name":"🚀星辰",
-            "url": "http://8.210.232.168/xc.json"
-        },
-
         {
              "name":"🚀俊佬",
             "url": "http://home.jundie.top:81/top98.json"
@@ -180,16 +141,20 @@
             "url": "https://pastebin.com/raw/5NHaxyGR"
         },
         {
-             "name":"🚀无意路线",
-            "url": "http://www.wya6.cn/tv/yc.json"
-        },
-        {
             "name":"🚀小马",
             "url": "https://szyyds.cn/tv/x.json"
         },
         {
             "name":"🚀王二小",
             "url": "https://szyyds.cn/tv/x.json"
+        },
+        {
+            "name": "🚀健康家用",
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
+        },
+        {
+            "name": "🚀艾欧接口",
+            "url": "http://cdn.qiaoji8.com/tvbox.json"
         },
         {
              "name":"🚀看电影",
