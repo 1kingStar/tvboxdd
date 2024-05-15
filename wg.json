@@ -14,6 +14,22 @@
             "url": "https://pastebin.com/raw/5NHaxyGR"
         },
         {
+            "name":"网友自建接口1",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/K3.json"
+        },
+        {
+            "name":"网友自建接口2",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/ZC.json"
+        },
+        {
+            "name":"网友自建接口3",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/SX.json"
+        },
+        {
+            "name":"网友自建接口4",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json"
+        },
+        {
             "name": "🚀摸鱼(73)",
             "url": "https://gitee.com/shangyunvip/yingshicang/raw/master/moyu/moyu.json"
         },
@@ -166,5 +182,6 @@
              "name":"🚀香雅情",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
         }
+
     ]
 }
