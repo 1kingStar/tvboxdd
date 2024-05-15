@@ -31,7 +31,11 @@
         },
         {
             "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/ZC.json",
-            "name": "🚀线路16（0827）"
+            "name": "自己修改的线路"
+        },
+        {
+            "url": "https://notabug.org/dongchenys/pt/raw/json/duanju.json",
+            "name": "短剧接口"
         },
         {
             "name": "🚀摸鱼(73)",
