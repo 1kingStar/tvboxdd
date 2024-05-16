@@ -30,10 +30,6 @@
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json"
         },
         {
-            "url": "https://gitee.com/wanggang0713/tvboxdd/raw/master/ZC.json",
-            "name": "自己修改的线路"
-        },
-        {
             "url": "https://notabug.org/dongchenys/pt/raw/json/duanju.json",
             "name": "短剧接口"
         },
