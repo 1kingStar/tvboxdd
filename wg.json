@@ -15,19 +15,19 @@
         },
         {
             "name":"网友自建接口1",
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/K3.json"
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/ZQ.json"
         },
         {
             "name":"网友自建接口2",
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/ZC.json"
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/ZV.json"
         },
         {
             "name":"网友自建接口3",
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/SX.json"
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/测试.json"
         },
         {
             "name":"网友自建接口4",
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json"
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/SX.json"
         },
         {
             "url": "https://notabug.org/dongchenys/pt/raw/json/duanju.json",
