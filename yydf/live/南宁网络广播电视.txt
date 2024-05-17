@@ -1,0 +1,45 @@
+南宁网络电视台,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+南宁新闻综合,video://https://www.nntv.cn/live/nntv_xw/
+南宁都市频道,video://https://www.nntv.cn/live/nntv_ds/
+南宁影视娱乐,video://https://www.nntv.cn/live/nntv_ys/
+南宁公共频道,video://https://www.nntv.cn/live/nntv_gg/
+深圳卫视点播,video://https://www.sztv.com.cn/huodong/qlw_ssxw/index.html
+隆安县电视台,video://https://www.nntv.cn/live/latv/
+南宁老友24小时直播,video://https://www.nntv.cn/live/nntv_live/
+南宁990广播,video://https://www.nntv.cn/live/fm990/
+南宁1074交通电台,video://https://www.nntv.cn/live/fm1074/
+南宁经典1079,video://https://www.nntv.cn/live/fm1049/
+南宁快乐895,video://https://www.nntv.cn/live/fm895/
+广东网络广播电视台,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
+广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
+广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
+广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
+广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
+大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
+大湾区卫视海外,video://https://www.gdtv.cn/tvChannelDetail/46
+经济科教,video://https://www.gdtv.cn/tvChannelDetail/49
+广东影视,video://https://www.gdtv.cn/tvChannelDetail/53
+4k超高清,video://https://www.gdtv.cn/tvChannelDetail/16
+广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
+嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
+南方购物,video://https://www.gdtv.cn/tvChannelDetail/42
+岭南戏曲,video://https://www.gdtv.cn/tvChannelDetail/15
+现代教育,video://https://www.gdtv.cn/tvChannelDetail/13
+广东移动,video://https://www.gdtv.cn/tvChannelDetail/74
+荔枝台,video://https://www.gdtv.cn/tvChannelDetail/100
+纪录片,video://https://www.gdtv.cn/tvChannelDetail/94
+grtn健康频道,video://https://www.gdtv.cn/tvChannelDetail/99
+grtn文化频道,video://https://www.gdtv.cn/tvChannelDetail/75
+grtn生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
+grtn教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
+好趣网,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+凤凰卫视中文直播,video://http://tv.haoqu99.com/4/fhzw.html
+凤凰卫视资讯台,video://http://tv.haoqu99.com/4/fhzx.html
+凤凰卫视香港台,video://http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
