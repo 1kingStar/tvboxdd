@@ -30,6 +30,47 @@
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/SX.json"
         },
         {
+            "name": "👨｜2024新年版｜👨",
+            "url": "yydf/yydf.json"
+        },
+        {
+            "name": "🔥｜天天开心🔥",
+            "url": "ttkx/ttkx.json"
+        },
+        {
+            "name": "🧞‍｜PG🧞‍",
+            "url": "pg/pg.json"
+        },
+        {
+            "name": "🐃‍｜放牛🐃‍",
+            "url": "wex/wex.json"
+        },
+        {
+            "name": "👶‍｜O-K👶‍",
+            "url": "ok/ok.json"
+        },
+        {
+            "name": "🍚｜饭总🍚",
+            "url": "fty/fty.json"
+        },
+        {
+            "name": "🍒｜小米🍒",
+            "url": "xm/xm.json"
+        },
+        {
+            "name": "🌹｜香神🌹",
+            "url": "xyq/xyq.json"
+        },
+        {
+            "name": "🤕‍｜短剧频道🤕‍",
+            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
+        },
+        {
+            "name": "🔞‍｜欢天喜地🔞",
+            "url": "18/18.json"
+        },
+
+        {
             "url": "https://notabug.org/dongchenys/pt/raw/json/duanju.json",
             "name": "短剧接口"
         },

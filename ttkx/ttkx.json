@@ -967,7 +967,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "../XYQTVBox/alitoken.txt"
         },
         {
             "key": "csp_XYQHiker_影搜",
@@ -987,7 +987,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "../XYQTVBox/alitoken.txt"
         },
         {
             "key": "csp_XYQHikerAL_云盘资源",
@@ -1007,7 +1007,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "../XYQTVBox/alitoken.txt"
         },
         {
             "key": "py_cctv",

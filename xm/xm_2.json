@@ -18,7 +18,7 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": {
-				"aliToken": "XYQTVBox/alitoken.txt",
+				"aliToken": "../XYQTVBox/alitoken.txt",
 				"quarkCookie": "tvfan/cookie.txt",
 				"from": "4k|auto|fhd",
 				"siteUrl": "https://api.wogg.xyz/",
@@ -418,7 +418,7 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": {
-				"aliToken": "XYQTVBox/alitoken.txt",
+				"aliToken": "../XYQTVBox/alitoken.txt",
 				"from": "4k|auto|fhd"
 			}
 		}, {
@@ -430,7 +430,7 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": {
-				"aliToken": "XYQTVBox/alitoken.txt",
+				"aliToken": "../XYQTVBox/alitoken.txt",
 				"from": "4k|auto|fhd"
 			}
 		}, {
@@ -442,7 +442,7 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": {
-				"aliToken": "XYQTVBox/alitoken.txt",
+				"aliToken": "../XYQTVBox/alitoken.txt",
 				"from": "4k|auto|fhd"
 			}
 		}, {
@@ -454,7 +454,7 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": {
-				"aliToken": "XYQTVBox/alitoken.txt",
+				"aliToken": "../XYQTVBox/alitoken.txt",
 				"from": "4k|auto|fhd"
 			}
 		}, {
@@ -465,7 +465,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"ext": {
-				"aliToken": "XYQTVBox/alitoken.txt",
+				"aliToken": "../XYQTVBox/alitoken.txt",
 				"quarkCookie": "tvfan/cookie.txt",
 				"from": "4k|auto|fhd"
 			}

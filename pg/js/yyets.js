@@ -14,7 +14,7 @@ var rule = {
 		'User-Agent': PC_UA,
 		'Accept': '*/*',
 		'Referer': 'https://yyets.click/',
-         	'Cookie':'http://127.0.0.1:9978/file:///XYQTVBox/yyets.txt',
+         	'Cookie':'../XYQTVBox/alitoken.txt/yyets.txt',
 	},
 	timeout:5000,
 	class_name:'',

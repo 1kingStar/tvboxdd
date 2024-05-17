@@ -18,7 +18,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json"
+            "ext": "../XYQTVBox/tokenm.json"
         },
         {
             "key": "Local",
@@ -36,7 +36,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/pushshare.txt$$$db$$$1",
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/pushshare.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -52,7 +52,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/alishare.txt$$$db$$$1",
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/alishare.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -68,7 +68,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/alishare.ebook.txt$$$db$$$1",
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/alishare.ebook.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -84,7 +84,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/quarkshare.txt",
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/quarkshare.txt",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -100,7 +100,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/thundershare.txt",
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/thundershare.txt",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -116,7 +116,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/pikpakclass.json$$$http://127.0.0.1:9978/file/XYQTVBox/pikpakclass.json.txt.gz",
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/pikpakclass.json$$$../XYQTVBox/pikpakclass.json.txt.gz",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -132,7 +132,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/sambashare.txt"
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/sambashare.txt"
         },
         {
             "key": "直播转点播",
@@ -177,7 +177,7 @@
             "changeable": 0,
             "ext": {
                 "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-                "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
+                "cookie": "../XYQTVBox/bili_cookie.txt"
             }
         },
         {
@@ -189,7 +189,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 120,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
         },
         {
             "key": "Libvio",
@@ -200,7 +200,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.libvio.fun/$$$null"
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.libvio.fun/$$$null"
         },
         {
             "key": "Bt0",
@@ -222,7 +222,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
+            "ext": "../XYQTVBox/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -237,7 +237,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "../XYQTVBox/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wo4k",
@@ -248,7 +248,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wobg",
@@ -259,7 +259,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "../XYQTVBox/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "yydsys",
@@ -270,7 +270,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "../XYQTVBox/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Gaoqing",
@@ -281,7 +281,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"
         },
         {
             "key": "ddys",
@@ -292,7 +292,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
+            "ext": "../XYQTVBox/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
         },
         {
             "key": "Xinshijue",
@@ -303,7 +303,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "团长资源",
@@ -314,7 +314,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$proxy$$$1"
         },
         {
             "key": "Moli",
@@ -325,7 +325,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
         },
         {
             "key": "Hdhive",
@@ -336,7 +336,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$proxy$$$1"
         },
         {
             "key": "Ppxzy",
@@ -347,7 +347,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
         },
         {
             "key": "校长影视",
@@ -358,7 +358,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
         },
         {
             "key": "Bdys_spider",
@@ -376,7 +376,7 @@
             "type": 3,
             "api": "csp_YunPan",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$null$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$null$$$proxy$$$1"
         },
         {
             "key": "YingSo",
@@ -384,7 +384,7 @@
             "type": 3,
             "api": "csp_YingSo",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json"
+            "ext": "../XYQTVBox/tokenm.json"
         },
         {
             "key": "混合盘",
@@ -392,7 +392,7 @@
             "type": 3,
             "api": "csp_HunHePan",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json",
+            "ext": "../XYQTVBox/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -404,7 +404,7 @@
             "type": 3,
             "api": "csp_EightEight",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://662688.xyz$$$",
+            "ext": "../XYQTVBox/tokenm.json$$$https://662688.xyz$$$",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -419,7 +419,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json"
+            "ext": "../XYQTVBox/tokenm.json"
         },
         {
             "key": "盘友圈",
@@ -427,7 +427,7 @@
             "type": 3,
             "api": "csp_Panyq",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$site$$$proxy"
+            "ext": "../XYQTVBox/tokenm.json$$$site$$$proxy"
         },
         {
             "key": "易搜",
@@ -435,7 +435,7 @@
             "type": 3,
             "api": "csp_YiSo",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/yiso.txt",
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/yiso.txt",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -447,7 +447,7 @@
             "type": 3,
             "api": "csp_MiaoSou",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json",
+            "ext": "../XYQTVBox/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -462,7 +462,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json",
+            "ext": "../XYQTVBox/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -477,7 +477,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json",
+            "ext": "../XYQTVBox/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -492,7 +492,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -507,7 +507,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
         },
         {
             "key": "PikaSo",
@@ -518,7 +518,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.pikaso.top/$$$null",
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.pikaso.top/$$$null",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -533,7 +533,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://pan.qianfan.app$$$null$$$http://127.0.0.1:9978/file/XYQTVBox/qianfan.txt$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$https://pan.qianfan.app$$$null$$$../XYQTVBox/qianfan.txt$$$1"
         },
         {
             "key": "YunSo",
@@ -544,7 +544,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.yunso.net$$$null$$$1",
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.yunso.net$$$null$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -559,7 +559,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$null$$$proxy$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$null$$$proxy$$$1"
         },
         {
             "key": "XBPQ_文才",
@@ -706,7 +706,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+            "ext": "../XYQTVBox/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
             "key": "天天",
@@ -822,7 +822,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/4khdr.txt$$$1",
+            "ext": "../XYQTVBox/tokenm.json$$$../XYQTVBox/4khdr.txt$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -834,7 +834,7 @@
             "type": 3,
             "api": "csp_UpYun",
             "timeout": 30,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json",
+            "ext": "../XYQTVBox/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -1180,7 +1180,7 @@
             "api": "csp_Push",
             "changeable": 0,
             "timeout": 30,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json"
+            "ext": "../XYQTVBox/tokenm.json"
         },
         {
             "key": "應用商店",
